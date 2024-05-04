@@ -13,3 +13,6 @@ install requirements: `npm i`
 run server: `node server.js` or `npm start`
 
 navigate to the website: `http://localhost:3000/register`
+
+### GitHub Repo
+`https://github.com/BaryosOby/WebFinalProject.git`
